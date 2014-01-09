@@ -23,5 +23,7 @@ int main()
 
   printf("UnCompressed String:%s\n",strDst);
   
+  printf("print 2");
+
   return 0;
 }
